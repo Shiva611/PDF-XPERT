@@ -1,0 +1,6 @@
+customtkinter
+pikepdf
+PyMuPDF
+pdf2docx
+docx2pdf
+Pillow
